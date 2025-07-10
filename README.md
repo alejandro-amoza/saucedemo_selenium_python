@@ -34,6 +34,16 @@ Casos automatizados:
 
 ---
 
+## 📸 Ejemplos de reportes Allure
+
+Aquí algunas capturas de pantalla de los reportes generados con Allure en este proyecto:
+
+- [Overview](docs/screenshots_allure/Overview.png)
+- [Test Case TC001](docs/screenshots_allure/TC001.png)
+- [Test Case TC002](docs/screenshots_allure/TC002.png)
+
+---
+
 ## 🚀 Cómo ejecutar
 ```bash
 git clone https://github.com/alejandro-amoza/saucedemo_selenium_python.git
@@ -46,10 +56,11 @@ allure serve reports/allure-results
 ```
 ---
 
-## 📸 Ejemplos de reportes Allure
+## 🙌 Autor
+Alejandro Amoza – QA Tester
+- [LinkedIn](https://www.linkedin.com/in/alejandro-amoza)
+- [Portfolio](https://alejandro-amoza.github.io/portfolio)
 
-Aquí algunas capturas de pantalla de los reportes generados con Allure en este proyecto:
 
-- [Overview](docs/screenshots_allure/Overview.png)
-- [Test Case TC001](docs/screenshots_allure/TC001.png)
-- [Test Case TC002](docs/screenshots_allure/TC002.png)
+
+
