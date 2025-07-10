@@ -43,3 +43,13 @@ python -m venv venv
 pip install -r requirements.txt
 pytest --alluredir=reports/allure-results
 allure serve reports/allure-results
+```
+---
+
+## 📸 Ejemplos de reportes Allure
+
+Aquí algunas capturas de pantalla de los reportes generados con Allure en este proyecto:
+
+![Overview](docs/screenshots_allure/Overview.png)  
+![Test Case TC001](docs/screenshots_allure/TC001.png)  
+![Test Case TC002](docs/screenshots_allure/TC002.png)  
